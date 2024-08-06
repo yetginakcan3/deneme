@@ -110,4 +110,5 @@ The resume has four distinct sections: work, education, projects and a header wi
 - Utilize the https://knowledge.udacity.com/ forum to seek help on content-specific issues. 
 - Submit a support ticket along with the link to your forked repository if (learners are) blocked for other reasons. Here are the links for the [retail consumers](https://udacity.zendesk.com/hc/en-us/requests/new) and [enterprise learners](https://udacityenterprise.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000279131).#   p r o j e 2  
  #   d e n e m e  
+ #   p r o j e 2  
  
